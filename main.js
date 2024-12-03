@@ -26,3 +26,11 @@ const myCat = {
     releaseDate = 2008,
     leadActor = "Christian Bale",
  }
+
+ let person = {
+    name: "Ben",
+    likesChocolate: true,
+  }
+
+console.log(person.likesChocolate);
+
