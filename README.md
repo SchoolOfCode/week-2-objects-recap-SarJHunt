@@ -57,7 +57,7 @@ let person = {
 
 👉 Copy this object into your JavaScript file:
 
-```js
+
 let desiredPleasantry = "greeting";
 
 let bensPhrases = {
@@ -65,7 +65,7 @@ let bensPhrases = {
   farewell: "See you in another life, brother",
   smallTalk: "Warm today, isn't it...",
 };
-```
+
 
 👉 Use bracket notation and the `smallTalk property` to console.log Ben's smalltalk phrase.
 
